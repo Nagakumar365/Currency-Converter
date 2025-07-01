@@ -3,7 +3,7 @@
 A simple and intuitive web-based currency converter built with HTML, CSS, and JavaScript. It allows users to convert values between different currencies in real-time using exchange rate APIs.
 
 ## 🌐 Live Demo
-[Coming Soon or add your link if deployed]
+https://currencyconverter365.netlify.app/
 
 ## 📸 Preview
 ![Currency Converter Screenshot](./screenshot.png) <!-- Add actual screenshot path -->
